@@ -1,0 +1,17 @@
+{
+    "name": "Yong Gu",
+    "domain": "yonggu.me",
+    "publicRepo": "https://github.com/keenguy/blog.git",
+    "qvlibrary": "/Users/yonggu/Documents/Quiver.qvlibrary",
+    "books": [
+        "Blog",
+        "Misc",
+        "Cpp",
+        "Python",
+        "Algorithm",
+        "Research",
+        "Reading",
+        "Web",
+        "English"
+    ]
+}
